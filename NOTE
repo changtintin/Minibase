@@ -1,0 +1,6 @@
+System do Initialize do R/W file and control the flow
+    AccessCheck / Registration -> Choose Table -> Query ......
+Output do R Query
+Processor do process qry from db and Output
+
+
